@@ -1,0 +1,22 @@
+@import "./mixins";
+
+:root {
+   --color-white: white;
+   --color-dark: #141414;
+   --color-orange: #e79706;
+   --color-slate-50: hsla(0, 0%, 100%, 0.05);
+   --color-black: hsl(0, 0%, 0%);
+   --color-gray-400: #090909;
+   --color-gray-600: #1d1d1d;
+   --color-slate-300: #f3f0eb;
+   --color-slate-800: rgba(256, 256, 256, 0.8);
+   --pos-c: translate(-50%, -50%);
+   --smooth-transition: cubic-bezier(0.19, 1, 0.22, 1);
+   --img-width: 190px;
+   --img-ratio: 1.1;
+   --img-offset-x: 20px;
+   --img-offset-y: 20px;
+   --img-border-radius: 7px;
+   --color-bg-content: rgba(255, 255, 255, 0.05);
+   --color-bg-demos: rgba(255, 255, 255, 0.05);
+}
