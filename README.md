@@ -8,7 +8,9 @@ Next Generation Frontend Tooling.
 
 See [Demo](https://vitejs.dev/).
 
+
 <br>
+
 ## Installation
 
 using a package manager:
@@ -17,12 +19,14 @@ using a package manager:
 $ yarn install
 ```
 <br/>
+
 ## Start
 
 ```bash
 $ yarn dev
 ```
 <br/>
+
 ## Deploy
 
 ```bash
